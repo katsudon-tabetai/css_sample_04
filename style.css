@@ -26,10 +26,10 @@ main{
 }
 
 main ul {
-  list-style-type: square;
+  list-style-type: circle;
 }
 main ol {
-  list-style-type: upper-roman;
+  list-style-type: hiragana-iroha;
 }
  
 footer   {
